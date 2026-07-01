@@ -1,0 +1,18 @@
+﻿# Binary documents/artifacts
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
+*.xls binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Text files
+*.py text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.csv text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf

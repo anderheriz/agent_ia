@@ -1,0 +1,5 @@
+pandas
+openai
+requests
+composio
+composio_openai
